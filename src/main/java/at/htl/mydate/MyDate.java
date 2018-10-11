@@ -13,7 +13,13 @@ public class MyDate {
      *
      * @return String, zB Samstag, 29. September 2018
      */
+
+
+
+
     public String formatDate() {
+
+
 
         return null;
 
